@@ -9,7 +9,9 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/pond-gotishatiankul-LEqYrDZWLH4-unsplash.jpg
-  altText: Project thumbnail image
+  altText: >-
+    A birds-eye view down a stairwell, representing our "deep dive" into a
+    topic.
   caption: ''
   elementId: ''
 media:
