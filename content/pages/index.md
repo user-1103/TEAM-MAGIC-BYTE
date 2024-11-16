@@ -48,7 +48,7 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: Join
         altText: ''
         url: 'https://discord.gg/Vug9qKnDTM'
         showIcon: false
