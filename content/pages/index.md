@@ -51,7 +51,7 @@ sections:
         label: Join
         altText: ''
         url: 'https://discord.gg/Vug9qKnDTM'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
