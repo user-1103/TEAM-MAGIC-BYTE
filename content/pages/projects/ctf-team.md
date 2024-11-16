@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Competitive Hacking Team
 date: '2023-10-10'
-client: Awesome client
+client: ADVANCED
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
