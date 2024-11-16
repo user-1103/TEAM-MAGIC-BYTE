@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: The Magic Byte Competitive Hacking Team
+title: Competitive Hacking Team
 date: '2023-10-10'
 client: Awesome client
 description: >-
