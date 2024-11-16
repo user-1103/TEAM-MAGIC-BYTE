@@ -14,10 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: NMT Cybersecurity Club
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: |-
+      We are a collection of hackers who welcome all, experienced or not, to 
+      join us for weekly, hands-on workshops that explore everything from 
+                              malware reversing, to cryptography, to 
+      lock-picking. Additionally, we compete monthly in online, international 
+      hacking competitions as a team.
     styles:
       self:
         height: auto
