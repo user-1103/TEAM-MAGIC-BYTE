@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Hacking Deep Dives
 date: '2024-11-15'
-client: Awesome client
+client: ADVANCED
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
