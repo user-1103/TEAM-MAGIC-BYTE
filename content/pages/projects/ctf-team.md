@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Competitive Hacking Team
 date: '2023-10-10'
 client: ADVANCED
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: Need a reason to hack? Want to pwn other schools? Say no more!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
