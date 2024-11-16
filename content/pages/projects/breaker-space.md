@@ -4,8 +4,8 @@ title: Research @ Breakerspace
 date: '2023-09-12'
 client: BEGINNER/ADVANCED
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  As the current custodians of the NMT CCoE Breakerspace, we are here to help
+  YOU make your hacking dreams come true!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
