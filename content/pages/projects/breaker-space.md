@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Research @ Breakerspace
+title: Research @ The Breakerspace
 date: '2023-09-12'
 client: BEGINNER/ADVANCED
 description: >-
