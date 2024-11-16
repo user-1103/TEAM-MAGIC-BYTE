@@ -8,7 +8,7 @@ description: >-
   We cover all topics from electronics 101, to lock picking, to cryptography.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/jeswin-thomas-Y5Y8yLGHG_k-unsplash.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
