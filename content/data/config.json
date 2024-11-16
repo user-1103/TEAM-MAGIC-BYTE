@@ -54,7 +54,8 @@
                 "label": "CTF Time",
                 "url": "https://ctftime.org/team/206340",
                 "altText": "",
-                "icon": "send"
+                "icon": "send",
+                "showIcon": true
             },
             {
                 "type": "Link",
