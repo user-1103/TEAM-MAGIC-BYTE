@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/jeswin-thomas-Y5Y8yLGHG_k-unsplash.jpg
   altText: Some nerd burning the shit out of an IC with a soldering iron.
-  caption: ''
+  caption: Some nerd burning the shit out of an IC with a soldering iron.
   elementId: ''
 media:
   type: ImageBlock
