@@ -10,7 +10,7 @@ featuredImage:
   type: ImageBlock
   url: /images/amal-shajan-mH2FqxEzrP0-unsplash.jpg
   altText: Some nerd holding up an ESP Devboard.
-  caption: ''
+  caption: Some nerd holding up an ESP Devboard.
   elementId: ''
 media:
   type: ImageBlock
