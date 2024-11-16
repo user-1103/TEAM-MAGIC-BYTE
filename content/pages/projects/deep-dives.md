@@ -22,7 +22,9 @@ media:
   altText: >-
     A birds-eye view down a stairwell, representing our "deep dive" into a
     topic.
-  caption: Caption of the image
+  caption: >-
+    A birds-eye view down a stairwell, representing our "deep dive" into a
+    topic.
   elementId: ''
 addTitleSuffix: true
 colors: colors-a
