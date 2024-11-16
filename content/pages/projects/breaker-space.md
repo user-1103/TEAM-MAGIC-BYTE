@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/amal-shajan-mH2FqxEzrP0-unsplash.jpg
-  altText: Project image
+  altText: Some nerd holding up an ESP Devboard.
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
