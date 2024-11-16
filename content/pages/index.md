@@ -61,6 +61,7 @@ sections:
     variant: variant-b
     projects:
       - content/pages/projects/workshops.md
+      - content/pages/projects/deep-dives.md
     styles:
       self:
         height: auto
