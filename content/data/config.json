@@ -51,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "CTF Time",
                 "url": "https://ctftime.org/team/206340",
                 "altText": ""
             },
