@@ -8,7 +8,7 @@ featuredImage:
   type: ImageBlock
   url: /images/20241109_175437.jpg
   altText: 'The competition room at Cyberforce 2024. '
-  caption: ''
+  caption: The competition room at Cyberforce 2024.
   elementId: ''
 media:
   type: ImageBlock
