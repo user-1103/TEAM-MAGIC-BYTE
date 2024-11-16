@@ -4,8 +4,8 @@ title: Hacking Deep Dives
 date: '2024-11-15'
 client: ADVANCED
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Already a 133t hacker? Then solve this puzzle to get the password to our
+  secret* advanced workshops.
 featuredImage:
   type: ImageBlock
   url: /images/pond-gotishatiankul-LEqYrDZWLH4-unsplash.jpg
