@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Research @ Breakerspace
 date: '2023-09-12'
-client: Awesome client
+client: BEGINNER/ADVANCED
 description: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.
