@@ -100,7 +100,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: See all wiki posts
         url: /blog
     posts:
       - content/pages/blog/hello-world.md
