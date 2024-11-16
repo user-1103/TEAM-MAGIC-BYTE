@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Competitive Hacking Team
 date: '2023-10-10'
-client: ADVANCED
+client: INTERMEDIATE/ADVANCED
 description: Need a reason to hack? Want to pwn other schools? Say no more!
 featuredImage:
   type: ImageBlock
