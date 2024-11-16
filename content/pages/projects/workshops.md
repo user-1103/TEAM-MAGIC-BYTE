@@ -15,7 +15,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/jeswin-thomas-Y5Y8yLGHG_k-unsplash.jpg
-  altText: Project image
+  altText: Some nerd burning the shit out of an IC with a soldering iron.
   caption: Caption of the image
   elementId: ''
 addTitleSuffix: true
