@@ -6,7 +6,7 @@ client: INTERMEDIATE/ADVANCED
 description: Need a reason to hack? Want to pwn other schools? Say no more!
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/david-behar-Hmp3Q5SNvHg-unsplash.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
