@@ -7,7 +7,7 @@ description: Need a reason to hack? Want to pwn other schools? Say no more!
 featuredImage:
   type: ImageBlock
   url: /images/david-behar-Hmp3Q5SNvHg-unsplash.jpg
-  altText: Project thumbnail image
+  altText: Some nerd
   caption: ''
   elementId: ''
 media:
