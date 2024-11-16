@@ -12,7 +12,9 @@ featuredImage:
   altText: >-
     A birds-eye view down a stairwell, representing our "deep dive" into a
     topic.
-  caption: ''
+  caption: >-
+    A birds-eye view down a stairwell, representing our "deep dive" into a
+    topic.
   elementId: ''
 media:
   type: ImageBlock
