@@ -9,7 +9,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/amal-shajan-mH2FqxEzrP0-unsplash.jpg
-  altText: Project thumbnail image
+  altText: Some nerd holding up an ESP Devboard.
   caption: ''
   elementId: ''
 media:
