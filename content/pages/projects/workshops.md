@@ -4,8 +4,8 @@ title: Weekly Workshops
 date: '2019-08-01'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Are you new to the world of hacking? Then these events are for you! Yes YOU.
+  We cover all topics from electronics 101, to lock picking, to cryptography.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
