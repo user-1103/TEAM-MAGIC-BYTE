@@ -105,7 +105,8 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/hello-world.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
