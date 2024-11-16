@@ -63,6 +63,7 @@ sections:
       - content/pages/projects/workshops.md
       - content/pages/projects/deep-dives.md
       - content/pages/projects/ctf-team.md
+      - content/pages/projects/breaker-space.md
     styles:
       self:
         height: auto
