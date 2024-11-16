@@ -7,7 +7,7 @@ description: Need a reason to hack? Want to pwn other schools? Say no more!
 featuredImage:
   type: ImageBlock
   url: /images/20241109_175437.jpg
-  altText: Some nerd
+  altText: 'The competition room at Cyberforce 2024. '
   caption: ''
   elementId: ''
 media:
