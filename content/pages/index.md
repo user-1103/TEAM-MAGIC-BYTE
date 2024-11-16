@@ -62,6 +62,7 @@ sections:
     projects:
       - content/pages/projects/workshops.md
       - content/pages/projects/deep-dives.md
+      - content/pages/projects/ctf-team.md
     styles:
       self:
         height: auto
