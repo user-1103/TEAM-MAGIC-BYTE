@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Weekly Workshops
 date: '2019-08-01'
-client: Awesome client
+client: 'BEGINNER '
 description: >-
   Are you new to the world of hacking? Then these events are for you! Yes YOU.
   We cover all topics from electronics 101, to lock picking, to cryptography.
